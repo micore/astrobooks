@@ -46,7 +46,7 @@ body {
 ul {
     text-align: left;
   }
-button {
+button {          
         background-color: #000;
         border: .5px solid crimson;
         border-radius: 20px;
@@ -57,6 +57,9 @@ button {
                     0 0 30px 0 crimson,
                     0 0 10px 0 crimson inset;
       }
+button:hover {
+  transform: scale(1.1); /* 放大1.1倍 */
+} 
 main {
   width: 960px;
   max-width: calc(100% - 2em);
