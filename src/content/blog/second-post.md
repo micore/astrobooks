@@ -29,3 +29,9 @@ Tor是实现匿名通信的自由软件，由美国非盈利组织The Tor Projec
 
 ![Alt text](/kehuduan05.png)
 
+下载连接：
+<ul>
+1.<a href="https://newbooks.work.gd/s/OQU6/2ycwhe6k" target="_blank" rel="noopener noreferrer">直链下载</a>
+  
+2.<a href="https://pan.baidu.com/s/1Op6R8Vt5vLDThZcvOiUnLw?pwd=pu4b" target="_blank" rel="noopener noreferrer">百度网盘下载</a>
+</ul>
