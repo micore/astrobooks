@@ -1,7 +1,7 @@
 ---
 title: "科学上网"
 description: "Lorem ipsum dolor sit amet"
-pubDate: "Jul 22 2025"
+pubDate: "Jul 2 2025"
 heroImage: "/e10ea894-f0c8-4630-946d-353cd6cc1b54.png"
 ---
 
