@@ -43,6 +43,9 @@ body {
   font-size: 20px;
   line-height: 1.7;
 }
+ul {
+    text-align: left;
+  }
 main {
   width: 960px;
   max-width: calc(100% - 2em);
