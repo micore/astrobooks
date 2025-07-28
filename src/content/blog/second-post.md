@@ -19,9 +19,9 @@ Tor是实现匿名通信的自由软件，由美国非盈利组织The Tor Projec
 ![Alt text](/kehuduan2.png)
 创建您的账户后登录，选择自己合适的客户端
 ![Alt text](/kehuduan00.png)
-
+下载后用账号账号密码登录
 ![Alt text](/kehuduan02.webp)
-创建您的账户后登录，选择自己合适的客户端
+点击连接
 ![Alt text](/kehuduan03.png)
 <b>时间可能会比较长3-5分钟都有可能，画面变绿，出现小绿锁就代表已接入TOR网络，科学上网就可以关掉了，只保留Proton即可。
 ![Alt text](/kehuduan04.png)
