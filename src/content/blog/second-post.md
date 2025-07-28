@@ -1,16 +1,25 @@
 ---
-title: "Second post"
+title: "客户端使用教程"
 description: "Lorem ipsum dolor sit amet"
-pubDate: "Jul 15 2022"
-heroImage: "/blog-placeholder-4.jpg"
+pubDate: "Jul 07 2025"
+heroImage: "/kehuduan00.png"
 ---
+<h4>在桌面应用程序中与我们保持联系！</h4>
+隆重推出 Z-Library 桌面启动器 Alpha 版。告别搜索可用网站链接的烦恼，我们的桌面启动器将为您处理一切。此外，它可在 TOR 网络无缝运行，确保您的图书馆访问不间断，同时保持您的匿名浏览体验并保护您的隐私。
+  <br>
+Tor是实现匿名通信的自由软件，由美国非盈利组织The Tor Project, Inc开发与维护。其名源于“The Onion Router”（洋葱路由）的英语缩写[8][9]。用户可透过Tor接达由全球志愿者免费提供，包含7500多个中继的覆盖网络[10]，从而达至隐藏用户真实地址、避免网络监控及流量分析的目的。Tor用户的互联网活动（包括浏览在线网站、帖子以及即时消息等通信形式）相对较难追踪[11]。Tor的设计原意在于保障用户的个人隐私，以及不受监控地进行秘密通信的自由和能力。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+<b>以下内容均需要在科技上网环境下进行：</b>
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+<b>确保自己可以连接google后打开 Proton<a href="https://protonvpn.com" target="_blank" rel="noopener noreferrer">VPN官网链接</a>
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
-
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
-
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+<b>点击定价-免费</b>
+![Alt text](/kehuduan1.png)
+<b>点击定价-免费</b>
+![Alt text](/kehuduan02.png)
+创建您的账户后登录，选择自己合适的客户端
+![Alt text](/kehuduan03.png)
+<b>时间可能会比较长3-5分钟都有可能，画面变绿，出现小绿锁就代表已接入TOR网络，科学上网就可以关掉了，只保留Proton即可。
+![Alt text](/kehuduan04.png)
+<h4>OK啦，恭喜你接入书籍的海洋了。做为奖励，Z站会给你 1个月 的优先权，每日可下载999本书。</h4>
+![Alt text](/kehuduan05.png)
