@@ -15,7 +15,11 @@ Tor是实现匿名通信的自由软件，由美国非盈利组织The Tor Projec
 
 <b>点击定价-免费</b>
 ![Alt text](/kehuduan1.png)
-<b>点击定价-免费</b>
+<b>点击继续免费</b>
+![Alt text](/kehuduan2.png)
+创建您的账户后登录，选择自己合适的客户端
+![Alt text](/kehuduan00.png)
+
 ![Alt text](/kehuduan02.webp)
 创建您的账户后登录，选择自己合适的客户端
 ![Alt text](/kehuduan03.png)
